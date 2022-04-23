@@ -1,0 +1,15 @@
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\bin\Debug\net6.0\ClassAndObjectHW.exe
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\bin\Debug\net6.0\ClassAndObjectHW.deps.json
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\bin\Debug\net6.0\ClassAndObjectHW.runtimeconfig.json
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\bin\Debug\net6.0\ClassAndObjectHW.dll
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\bin\Debug\net6.0\ClassAndObjectHW.pdb
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ClassAndObjectHW.csproj.AssemblyReference.cache
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ClassAndObjectHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ClassAndObjectHW.AssemblyInfoInputs.cache
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ClassAndObjectHW.AssemblyInfo.cs
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ClassAndObjectHW.csproj.CoreCompileInputs.cache
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ClassAndObjectHW.dll
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\refint\ClassAndObjectHW.dll
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ClassAndObjectHW.pdb
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ClassAndObjectHW.genruntimeconfig.cache
+C:\AnastasijaLUKursi\C-ClassesandObjectsHW\ClassAndObjectHW\obj\Debug\net6.0\ref\ClassAndObjectHW.dll
